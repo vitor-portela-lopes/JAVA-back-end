@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aula05Repeticao",
+            "request": "launch",
+            "mainClass": "Aula05Repeticao",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "avaliaçãoBackEnd",
+            "request": "launch",
+            "mainClass": "com.mycompany.avaliaçãoBackEnd",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",
